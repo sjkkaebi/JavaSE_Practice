@@ -8,7 +8,7 @@ import Study01.mypac.HandPhone;
 			
 			HandPhone hp2 = new HandPhone("갤럭시");
 			
-			HandPhone hp3 = new HandPhone(2);
+			HandPhone hp3 = new HandPhone(2 );
 			
 			System.out.println("hp model: " +hp.model);
 			System.out.println("hp2 model: " +hp2.model);
